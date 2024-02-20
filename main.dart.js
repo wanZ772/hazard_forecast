@@ -73146,7 +73146,7 @@ s=2
 return A.Z(A.ajA(null).EC(0,"https://natural-hazard-forecast.onrender.com/hazard_forecast?target_location="+a,p),$async$oj)
 case 2:n=c
 s=3
-return A.Z(A.ajA(null).EC(0,"https://natural-hazard-forecast.onrender.com/get_data?target_location="+a,p),$async$oj)
+return A.Z(A.ajA(null).EC(0,"https://natural-hazard-forecast.onrender.com/weather_forecast?target_location="+a,p),$async$oj)
 case 3:q.am(new o.aa5(q,n,c))
 A.t_(q.e)
 return A.T(null,r)}})
