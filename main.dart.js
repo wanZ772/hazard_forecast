@@ -82320,16 +82320,16 @@ while(true)switch(s){case 0:q.r=[]
 q.ak(new A.ahb(q))
 p=t.z
 s=2
-return A.Z(A.a_A(null).u4(0,"http://192.168.43.151:8080/hazard_forecast?target_location="+a,p),$async$m3)
+return A.Z(A.a_A(null).u4(0,"https://natural-hazard-forecast.onrender.com/hazard_forecast?target_location="+a,p),$async$m3)
 case 2:o=c
 s=3
-return A.Z(A.a_A(null).u4(0,"http://192.168.43.151:8080/weather_forecast?target_location="+a,p),$async$m3)
+return A.Z(A.a_A(null).u4(0,"https://natural-hazard-forecast.onrender.com/weather_forecast?target_location="+a,p),$async$m3)
 case 3:n=c
 s=4
-return A.Z(A.a_A(null).u4(0,"http://192.168.43.151:8080/earthquake_report?target_location="+a,p),$async$m3)
+return A.Z(A.a_A(null).u4(0,"https://natural-hazard-forecast.onrender.com/earthquake_report?target_location="+a,p),$async$m3)
 case 4:m=c
 s=5
-return A.Z(A.a_A(null).u4(0,"http://192.168.43.151:8080/air?target_location="+a,p),$async$m3)
+return A.Z(A.a_A(null).u4(0,"https://natural-hazard-forecast.onrender.com/air?target_location="+a,p),$async$m3)
 case 5:l=c
 if(!J.d(J.a9(J.a9(l.a,0),0),"No Data Found!")){q.w=A.b([9999,-1],t.t)
 for(k=0;k<24;++k){if(J.aAf(J.a9(J.a9(l.a,k),1),q.w[0]))q.w[0]=J.a9(J.a9(l.a,k),1)
