@@ -1,6 +1,6 @@
 {
     "name": "Hazard Forecast",
-    "short_name": "natural_hazard_forecast",
+    "short_name": "Hazard Forecast",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

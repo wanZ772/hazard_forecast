@@ -82362,7 +82362,7 @@ R(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=this,a=null,a0="No Earthquake Repo
 a3=A.oZ(a,A.c5(a,new A.Au(b.e,a5,B.Nj,B.Mk,B.Ml,!0,a),B.o,a,a,new A.c6(B.eP,a,a,a4,a,a,B.S),a,a,a,a,a3.a.a/1.5),a,a,a,a,20,a)
 a4=A.bj(a6,B.au,a2).w
 a4=A.oZ(a,A.asD(A.asC(B.E2,B.m,50),new A.ah9(b),a),a,a,a,a4.a.a/6,15,a)
-a5=A.oZ(40,A.bC("Developed by WanZ",a,a,a,A.cW(a,a,B.i,a,a,a,a,a,a,a,a,20,a,a,B.aV,a,a,!0,a,a,a,a,a,a,a,a),a,a),a,a,a,a,a,a)
+a5=A.oZ(40,A.bC("Developed by Code",a,a,a,A.cW(a,a,B.i,a,a,a,a,a,a,a,a,20,a,a,B.aV,a,a,!0,a,a,a,a,a,a,a,a),a,a),a,a,a,a,a,a)
 s=A.bj(a6,B.au,a2).w
 r=A.bj(a6,B.au,a2).w
 q=A.bj(a6,B.au,a2).w
